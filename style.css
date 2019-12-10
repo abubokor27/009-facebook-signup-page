@@ -1,0 +1,190 @@
+a:hover {
+    color: white;
+}
+
+.facebook_form {
+    background-color: #3b5998;
+    background-image: linear-gradient(#4e69a2, #3b5998 50%);
+    margin-top: -20px;
+    padding-bottom: 5px;
+}
+
+nav {
+    height: 100px;
+}
+
+.navbar-brand {
+    font-size: 40px;
+    color: white;
+    font-family: Klavika;
+    font-weight: bold;
+    margin-left: 45px;
+    padding-top: 35px;
+}
+
+.navbar-collapse {
+    margin-left: 400px;
+}
+
+form {}
+
+form a {}
+
+label {
+    display: inline-block;
+    margin-bottom: 0;
+    color: black;
+    font-size: 13px;
+}
+
+.coooo {
+    color: white;
+}
+
+.label1 {}
+
+.label2 {
+    margin-top: 27px;
+}
+
+form a {
+    color: #9CB4D8;
+    font-size: 13px;
+}
+
+input[type="name"] {
+    margin-right: -15px;
+    height: 22px;
+    width: 160px;
+    border: 1px solid black;
+}
+
+input[type="submit"] {
+    margin-right: 60px;
+    color: white;
+    background: #4267B2;
+    margin-top: 22px;
+    height: 23px;
+    font-size: 11px;
+    border: 1px solid #29487D;
+}
+
+
+.content_section {
+    background: #DEE1ED;
+}
+
+.content_area {
+    padding-top: 25px;
+    margin: 0 60px;
+}
+
+.aaa {}
+
+.aaa h3 {
+    font-size: 22px;
+    color: #0E385F;
+    padding-top: 15px;
+}
+
+.aaa img {}
+
+.aab {
+    padding-left: 88px;
+    padding-right: 35px;
+}
+
+.aab h2 {
+    font-size: 38px;
+    color: #333333;
+    font-weight: bold;
+    margin-top: -7px;
+}
+
+.aab h3 {
+    font-size: 21px;
+    padding-bottom: 15px;
+}
+
+.aac {}
+
+.aad {}
+
+.aad label {}
+
+.aac input {
+    border: 1px solid #BDC7D8;
+    border-radius: 6px;
+}
+
+.aae {}
+
+.aae label {}
+
+.aae input {}
+
+.aaf {}
+
+.aaf label {}
+
+.aaf input {}
+
+.aag {}
+
+.aag p {
+    font-size: 13px;
+    text-align: justify;
+}
+
+.aah {}
+
+.aah button {
+    background: #5A8F46;
+    color: white;
+    padding: 3px 70px;
+    border: 2px solid #3B6E22;
+    border-radius: 6px;
+}
+
+.aah button span {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.aai {}
+
+.aai p {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #666666;
+}
+
+.aai p a {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
